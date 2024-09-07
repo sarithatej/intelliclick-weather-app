@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+/* Add this to your styles */
+@media only screen and (max-width: 600px) {
+  table {
+    width: 100%;
+  }
+}
+
